@@ -1,0 +1,62 @@
+{
+  "title": "Easy Piano Data",
+  "madeBy": ["Kenneth Ray Fullbright"],
+  "pianoData": [
+    {
+      "id": 1,
+      "fileName": "do",
+      "soundName": "do",
+      "color": "#fafaf9",
+      "pressedColor": "#cbd5e1"
+    },
+    {
+      "id": 2,
+      "fileName": "re",
+      "soundName": "re",
+      "color": "#ef4444",
+      "pressedColor": "#991b1b"
+    },
+    {
+      "id": 3,
+      "fileName": "mi",
+      "soundName": "mi",
+      "color": "#f97316",
+      "pressedColor": "#9a3412"
+    },
+    {
+      "id": 4,
+      "fileName": "fa",
+      "soundName": "fa",
+      "color": "#eab308",
+      "pressedColor": "#854d0e"
+    },
+    {
+      "id": 5,
+      "fileName": "so",
+      "soundName": "so",
+      "color": "#22c55e",
+      "pressedColor": "#166534"
+    },
+    {
+      "id": 6,
+      "fileName": "la",
+      "soundName": "la",
+      "color": "#3b82f6",
+      "pressedColor": "#1e40af"
+    },
+    {
+      "id": 7,
+      "fileName": "ti",
+      "soundName": "ti",
+      "color": "#a855f7",
+      "pressedColor": "#6b21a8"
+    },
+    {
+      "id": 8,
+      "fileName": "do2",
+      "soundName": "do",
+      "color": "#475569",
+      "pressedColor": "#0f172a"
+    }
+  ]
+}
